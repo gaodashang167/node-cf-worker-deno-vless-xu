@@ -26,6 +26,26 @@
 ## vless-ws-tls
 ### 不要配置信息，vless是关键词，会被检测到
 
+<div align="center">
+	<a href="https://nless-generate.abc15018045126.dpdns.org/" target="_blank" style="font-size:1.2em;font-weight:bold;">
+		🚀 <b>节点生成</b>
+	</a>
+	<br>
+	<a href="https://stock.hostmonit.com/CloudFlareYes" target="_blank" style="font-size:1.1em;">
+		🌐 <b>优选IP</b>
+	</a>
+</div>
+
+<div align="center">
+	<b>用法说明</b>
+	<ul style="text-align:left;max-width:500px;margin:auto;">
+		<li><b>节点生成：</b>点击上方链接，自动生成 VLESS 节点配置，适用于本项目。</li>
+		<li><b>优选IP：</b>点击上方链接，获取 Cloudflare 可用优选 IP，提升连接速度和稳定性。</li>
+		<li>将生成的节点配置和优选 IP 替换到下方示例中的 <code>&lt;hidden-domain&gt;</code> 或 <code>&lt;hidden-node-domain&gt;</code> 部分即可。</li>
+	</ul>
+</div>
+
+
 ### CF 直连
 
 ```
