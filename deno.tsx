@@ -15,7 +15,7 @@ declare const Deno: {
   connect(options: { hostname: string; port: number }): Promise<DenoConn>;
 };
 
-const ID = "2ea73714-138e-4cc7-8cab-d7caf476d51b";
+const ID = "60f7b45b-46ab-4589-baa9-57d4f4bc8a66";
 const id = ID.replace(/-/g, "");
 
 Deno.serve((req: Request) => {
