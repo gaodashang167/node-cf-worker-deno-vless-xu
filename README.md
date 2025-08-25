@@ -118,6 +118,11 @@ vless://2ea73714-138e-4cc7-8cab-d7caf476d511@<hidden-node-domain>.railway.app:44
 
 ---
 
+#### Deno
+
+- [Deno Console](https://console.deno.com/)
+- Entrypoint: `deno.tsx` (其它留空)
+
 ## 🙏 感谢
 
 ### `_worker.js` 感谢
