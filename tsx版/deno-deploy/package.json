@@ -1,0 +1,14 @@
+{
+  "name": "deno-react-project",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "npm:react": "^18.2.0",
+    "npm:react-dom": "^18.2.0",
+    "npm:react/jsx-runtime": "^18.2.0",
+    "denotsx": "^0.1.0"
+  },
+  "scripts": {
+    "dev": "deno run --allow-net deno.tsx"
+  }
+}
